@@ -112,16 +112,6 @@ The simulation validates:
 * Hierarchical Vedic multiplication
 * Top-level ALU functionality
 
-### RTL Schematic
-
-> Add the RTL schematic image here (`Images/rtl_schematic.png`).
-
-### Simulation Waveform
-
-> Add the final ALU waveform here (`Images/final_Wave_form.png`).
-
----
-
 ## Tools Used
 
 * Verilog HDL
